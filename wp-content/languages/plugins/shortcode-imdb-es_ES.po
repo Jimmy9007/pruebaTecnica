@@ -1,0 +1,57 @@
+# Translation of Plugins - Shortcode IMDB - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Shortcode IMDB - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-07 13:41:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Shortcode IMDB - Stable (latest release)\n"
+
+#: includes/helpers/menus.php:42 includes/helpers/menus.php:43
+msgid "Quotes"
+msgstr "Citas"
+
+#: includes/helpers/menus.php:32 includes/helpers/menus.php:33
+msgid "Names"
+msgstr "Nombres"
+
+#: includes/helpers/menus.php:22 includes/helpers/menus.php:23
+msgid "Titles"
+msgstr "Títulos"
+
+#: includes/helpers/cachelist.php:65
+msgid "<b>"
+msgstr "<b>"
+
+#: includes/helpers/menus.php:53 includes/helpers/menus.php:54
+msgid "Lists"
+msgstr "Listas"
+
+#. Author of the plugin
+msgid "Kemal YAZICI - PluginPress"
+msgstr "Kemal YAZICI - PluginPress"
+
+#. Author URI of the plugin
+msgid "https://pluginpress.net"
+msgstr "https://pluginpress.net"
+
+#: includes/helpers/cachelist.php:66
+msgid "<b>IMDB ID</b>"
+msgstr "<b>IMDB ID</b>"
+
+#: includes/helpers/cachelist.php:64
+msgid "<b>ID</b>"
+msgstr "<b>ID</b>"
+
+#. Plugin Name of the plugin
+#: includes/helpers/menus.php:10 includes/helpers/menus.php:11
+msgid "ShortCode IMDB"
+msgstr "ShortCode IMDB"
+
+#. Description of the plugin
+msgid "This is a Wordpress plugin to display movie information in a content to users such as title, cast and plot via grabbing the data from imdb. You will be able to show movie or actor/actress information in your articles."
+msgstr "Este es un plugin para WordPress para mostrar información de películas en un contenido a los usuarios, como el título, el reparto y la sinopsis, tomando la información de IMDb. Podrás mostrar la información de una película o de los actores/actrices en tus artículos."
